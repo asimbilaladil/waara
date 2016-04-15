@@ -291,11 +291,7 @@
                                 </div>
                             </div> 
                         </div>
-                        <ul class="top-nav nav-right">
-                            <li><a href="#">APPLY</a></li>
-                            <li><a href="#">PROGRAMS &amp; DEGREES</a></li>
-                            <li><a href="#">FIND FUNDINg</a></li> 
-                        </ul>
+           
                     </div>
                 </div>
             </div>
@@ -385,8 +381,8 @@
                                     </li>
                                     <li class="cs-search-area">
                                  
-                                        <div class="search-area">
-                                            <a href="#"><i class="icon-search2 searchPosition"></i></a>
+                                        <div class="search-area " style="Top:13px">
+                                            <a href="#"><i class="icon-search2 "></i></a>
                                             <form>
                                                 <div class="input-holder">
                                                     <i class="icon-search2"></i>
@@ -404,14 +400,13 @@
                             <div class="cs-search-area hidden-md hidden-lg">
                                 <div class="cs-menu-slide">
                                     <div class="mm-toggle">
-                                        <i class="icon-align-justify"></i>
                                     </div>            
                                 </div>
-                                <div class="search-area">
-                                    <a href="#"><i class="icon-search2"></i></a>
+                                <div class="search-area" style="Top:-20px">
+                                    <a href="#"><i class="icon-search2 " style="bottom:5px"></i></a>
                                     <form>
                                         <div class="input-holder">
-                                            <i class="icon-search2"></i>
+                                            <i class="icon-search2 "></i>
                                             <input type="text" placeholder="Enter any keyword">
                                             <label class="cs-bgcolor">
                                                 <i class="icon-search5"></i>
